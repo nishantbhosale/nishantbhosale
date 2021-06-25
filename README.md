@@ -1,4 +1,16 @@
-- 👋 Hi, I’m @nishantbhosale
+#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Nishant !!
+<a href="https://www.linkedin.com/in/nishantbhosale">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /> 
+ </a> 
+<a href="mailto:bhosale.nishant.n@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"   />
+</a>
+<a href="https://bhosale-nishant-n.medium.com/">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"   />
+</a>
+
+<br />
+
 - 👀 I’m interested in coding and learning new technology.
 - 🌱 I’m Machine Learning, DevOps, Big Data enthusiast.
 - 📫 How to reach me bhosale.nishant.n@gmail.com
