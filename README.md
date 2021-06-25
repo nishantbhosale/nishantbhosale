@@ -9,7 +9,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"   />
 </a>
 
-<br />
+<br/>
 
 - 👀 I’m interested in coding and learning new technology.
 - 🌱 I’m Machine Learning, DevOps, Big Data enthusiast.
